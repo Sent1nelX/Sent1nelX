@@ -9,7 +9,7 @@
 
 <table border="1">
   <tr>
-    <td>
+    <td class ="test">
       <img src="https://github.com/Adik8712/Adik8712/blob/main/assets/101027445/bdfeef5f-8e7e-4433-bc1d-7bc03c227908.gif" width="200px">
     </td>
     <td>
