@@ -1,17 +1,16 @@
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adik.abashev) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=dark)](https://instagram.com/adik.abashev) 
 
 <div style="display: flex;">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Adik8712&theme=onedark&hide_border=true&include_all_commits=false&count_private=true" width="400px">
-  <img src="https://github.com/Adik8712/Adik8712/blob/main/assets/101027445/bdfeef5f-8e7e-4433-bc1d-7bc03c227908.gif" width="200px">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adik8712&theme=onedark&hide_border=true" width="400px">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adik8712&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="400px">
 </div>
 
 <table border="1">
   <tr>
-    <td class ="test">
-      <img src="https://github.com/Adik8712/Adik8712/blob/main/assets/101027445/bdfeef5f-8e7e-4433-bc1d-7bc03c227908.gif" width="200px">
-    </td>
     <td>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -26,4 +25,4 @@
   </tr>
 </table>
 
-<img src="https://github.com/Adik8712/Adik8712/blob/main/assets/101027445/bdfeef5f-8e7e-4433-bc1d-7bc03c227908.gif" width="800px">
+<img src="https://github-profile-trophy.vercel.app/?username=Adik8712&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="800px">
