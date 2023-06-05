@@ -1,5 +1,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adik.abashev) 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <div style="display: flex;">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Adik8712&theme=onedark&hide_border=true&include_all_commits=false&count_private=true" width="400px">
