@@ -1,8 +1,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adik.abashev) 
 
-<div id="header" align="center">
-  <iframe src="https://gifer.com/embed/BliM" width=480 height=377.430 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+<div id="header" align="center"> 
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+  <img src="https://i.gifer.com/BliM.gif" width="100"/>
 </div>
 
 <div style="display: flex;">
