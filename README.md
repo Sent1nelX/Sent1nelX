@@ -2,7 +2,7 @@
 
 ---
 
-Я Python разработчик. Моя специализация - веб-разработка с использованием Python и Django Rest Framework. В работе я также применяю знания HTML, CSS и JavaScript для создания интерактивных пользовательских интерфейсов. Мой опыт включает работу с базами данных, такими как PostgreSQL и SQLite. Все навыки можно посмотрев нажав на My Skils
+Я Python разработчик, специализирующийся на веб-разработке с использованием Python и Django Rest Framework. В моей работе я также применяю знания HTML, CSS и JavaScript для создания интерактивных пользовательских интерфейсов. Мой опыт включает работу с базами данных, такими как PostgreSQL и SQLite. Все мои навыки можно увидеть, нажав на [My Skills](#my-skills).
 
 ---
 
@@ -18,7 +18,7 @@
 </details>
 
 <details>
-  <summary>My skills</summary>
+  <summary>Мои навыки</summary>
     <table border="1">
       <tr>
           <td>
@@ -55,9 +55,9 @@
 
 ### Мои проекты
 
-1. [Django-Telegram-News-Bot](https://github.com/Adik8712/Django-Telegram-News-Bot) - для парсинга Новостей.
-2. [Online Shop Rest API](https://github.com/Adik8712/OnlineShopRestApiTwo) - это проект для онлайн магазина.
-3. [Financial-Bot-for-Telegram](https://github.com/Adik8712/Financial-Bot-for-Telegram) - Бот позволяет учитывать расходы и доходы.
+1. [Django-Telegram-News-Bot](https://github.com/Adik8712/Django-Telegram-News-Bot) - бот для парсинга новостей.
+2. [Online Shop Rest API](https://github.com/Adik8712/OnlineShopRestApiTwo) - REST API для онлайн магазина.
+3. [Financial-Bot-for-Telegram](https://github.com/Adik8712/Financial-Bot-for-Telegram) - бот для учета расходов и доходов.
 
 ---
 
@@ -68,3 +68,5 @@
 ---
 
 <img src="https://github-profile-trophy.vercel.app/?username=Adik8712&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="800px">
+
+---
