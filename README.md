@@ -18,7 +18,7 @@
 </details>
 
 <details>
-  <summary>Мои навыки</summary>
+  <summary>My Skills</summary>
     <table border="1">
       <tr>
           <td>
