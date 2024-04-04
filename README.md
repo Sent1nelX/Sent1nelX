@@ -55,9 +55,12 @@
 
 ### Мои проекты
 
-1. [Django-Telegram-News-Bot](https://github.com/Adik8712/Django-Telegram-News-Bot) - бот для парсинга новостей.
-2. [Online Shop Rest API](https://github.com/Adik8712/OnlineShopRestApiTwo) - REST API для онлайн магазина.
-3. [Financial-Bot-for-Telegram](https://github.com/Adik8712/Financial-Bot-for-Telegram) - бот для учета расходов и доходов.
+1. [Django-Telegram-News-Bot](https://github.com/Adik8712/Django-Telegram-News-Bot) - Бот для парсинга новостей.
+2. [Online Shop Rest API](https://github.com/Adik8712/OnlineShopRestApiTwo) - Для онлайн магазина.
+3. [Financial-Bot-for-Telegram](https://github.com/Adik8712/Financial-Bot-for-Telegram) - Бот для учета расходов и доходов.
+4. [Google-Gallery-Django](https://github.com/Adik8712/GoogleGalleryDjango) - Интернет-магазин на Django с парсингом аниме
+5. [Django-E-commerce-Store](https://github.com/Adik8712/Django-E-commerce-Store) - Магазин
+6. [Django-REST-GraphQL-E-commerce-Project](https://github.com/Adik8712/Django-REST-GraphQL-E-commerce-Project) - Django проект с REST API и GraphQL
 
 ---
 
