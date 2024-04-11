@@ -13,7 +13,7 @@
 </details>
 
 <details>
-  <summary>Top Languages</summary>
+  <summary>📝 Top Languages:</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adik8712&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="400px">
 </details>
 
@@ -53,7 +53,7 @@
 
 ---
 
-### Мои проекты
+### 💼 Мои проекты:
 
 1. [Django-Telegram-News-Bot](https://github.com/Adik8712/Django-Telegram-News-Bot) - Бот для парсинга новостей.
 2. [Online Shop Rest API](https://github.com/Adik8712/OnlineShopRestApiTwo) - Для онлайн магазина.
