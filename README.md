@@ -7,7 +7,7 @@
 ---
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>📊 GitHub Stats:</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Adik8712&theme=onedark&hide_border=true&include_all_commits=false&count_private=true" width="400px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adik8712&theme=onedark&hide_border=true" width="400px">
 </details>
@@ -18,7 +18,7 @@
 </details>
 
 <details>
-  <summary>My Skills</summary>
+  <summary>💻 Tech Stack:</summary>
     <table border="1">
       <tr>
           <td>
@@ -64,7 +64,7 @@
 
 ---
 
-### Связаться со мной
+### 🌐 Socials:
 
 Вы можете связаться со мной через [Telegram](https://t.me/AdikPy) или посетить мой профиль в [Instagram](https://instagram.com/adik.abashev).
 
