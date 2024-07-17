@@ -64,12 +64,6 @@
 
 ---
 
-### 🌐 Socials:
-
-Вы можете связаться со мной через [Telegram](https://t.me/AdikPy) или посетить мой профиль в [Instagram](https://instagram.com/adik.abashev).
-
----
-
 <img src="https://github-profile-trophy.vercel.app/?username=Adik8712&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="800px">
 
 ---
