@@ -8,13 +8,13 @@
 
 <details>
   <summary>📊 GitHub Stats:</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Adik8712&theme=onedark&hide_border=true&include_all_commits=false&count_private=true" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adik8712&theme=onedark&hide_border=true" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sent1nelX&theme=onedark&hide_border=true&include_all_commits=false&count_private=true" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sent1nelX&theme=onedark&hide_border=true" width="400px">
 </details>
 
 <details>
   <summary>📝 Top Languages:</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adik8712&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sent1nelX&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="400px">
 </details>
 
 <details>
@@ -55,15 +55,15 @@
 
 ### 💼 Мои проекты:
 
-1. [Django-Telegram-News-Bot](https://github.com/Adik8712/Django-Telegram-News-Bot) - Бот для парсинга новостей.
-2. [Online Shop Rest API](https://github.com/Adik8712/OnlineShopRestApiTwo) - Для онлайн магазина.
-3. [Financial-Bot-for-Telegram](https://github.com/Adik8712/Financial-Bot-for-Telegram) - Бот для учета расходов и доходов.
-4. [Google-Gallery-Django](https://github.com/Adik8712/GoogleGalleryDjango) - Интернет-магазин на Django с парсингом аниме
-5. [Django-E-commerce-Store](https://github.com/Adik8712/Django-E-commerce-Store) - Магазин
-6. [Django-REST-GraphQL-E-commerce-Project](https://github.com/Adik8712/Django-REST-GraphQL-E-commerce-Project) - Django проект с REST API и GraphQL
+1. [Django-Telegram-News-Bot](https://github.com/Sent1nelX/Django-Telegram-News-Bot) - Бот для парсинга новостей.
+2. [Online Shop Rest API](https://github.com/Sent1nelX/OnlineShopRestApiTwo) - Для онлайн магазина.
+3. [Financial-Bot-for-Telegram](https://github.com/Sent1nelX/Financial-Bot-for-Telegram) - Бот для учета расходов и доходов.
+4. [Google-Gallery-Django](https://github.com/Sent1nelX/GoogleGalleryDjango) - Интернет-магазин на Django с парсингом аниме
+5. [Django-E-commerce-Store](https://github.com/Sent1nelX/Django-E-commerce-Store) - Магазин
+6. [Django-REST-GraphQL-E-commerce-Project](https://github.com/Sent1nelX/Django-REST-GraphQL-E-commerce-Project) - Django проект с REST API и GraphQL
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adik8712&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="800px">
+<img src="https://github-profile-trophy.vercel.app/?username=Sent1nelX&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="800px">
 
 ---
