@@ -62,15 +62,6 @@
 5. [Django-E-commerce-Store](https://github.com/Sent1nelX/Django-E-commerce-Store) - Магазин
 6. [Django-REST-GraphQL-E-commerce-Project](https://github.com/Sent1nelX/Django-REST-GraphQL-E-commerce-Project) - Django проект с REST API и GraphQL
 
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@soc_sent1nelx/a7e9b0d5-2763-4f5e-8a1f-df096c7308a9.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
-
 ---
 
 <img src="https://github-profile-trophy.vercel.app/?username=Sent1nelX&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="800px">
