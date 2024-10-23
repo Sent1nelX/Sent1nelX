@@ -1,4 +1,5 @@
 ### Привет, я Sent1nelX!
+  ![Codewars Badge](https://www.codewars.com/users/Sent1nelX/badges/large)
 
 ---
 
@@ -52,6 +53,7 @@
 </details>
 
 ---
+
 
 ### 💼 Мои проекты:
 
