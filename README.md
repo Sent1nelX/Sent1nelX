@@ -217,22 +217,16 @@ class Sent1nelX:
 <summary><h2>📊 github_signal</h2></summary>
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Sent1nelX&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sent1nelX&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Sent1nelX&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sent1nelX&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sent1nelX&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sent1nelX&theme=tokyonight&utcOffset=5" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sent1nelX&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sent1nelX&theme=tokyonight" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Sent1nelX&theme=tokyonight&hide_border=true&type=svg" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sent1nelX&bg_color=0d1117&color=58a6ff&line=2f81f7&point=f85149&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sent1nelX&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true" />
 </div>
 
 </details>
