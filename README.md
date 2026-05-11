@@ -26,7 +26,7 @@
 <pre>
 name:     Sent1nelX
 role:     Python Backend Developer
-location: Kazakhstan 
+location: Kazakhstan
 stack:    Django, DRF, FastAPI, PostgreSQL
 focus:    Telegram bots, REST API, automation, parsing
 status:   building useful systems, not demo toys
@@ -176,7 +176,7 @@ class Sent1nelX:
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=%2361DAFB)
 ![aiogram](https://img.shields.io/badge/aiogram-26A5E4?style=flat&logo=telegram&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white)
-![Graphene](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 **🗄️ Databases**
@@ -189,7 +189,6 @@ class Sent1nelX:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=github-actions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
@@ -208,7 +207,7 @@ class Sent1nelX:
 
 <div align="center">
   <a href="https://github.com/Sent1nelX?tab=achievements">
-    <img src="https://img.shields.io/badge/🏆%20View%20GitHub%20Achievements-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20View%20GitHub%20Achievements-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -218,27 +217,17 @@ class Sent1nelX:
 <summary><h2>📊 github_signal</h2></summary>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Sent1nelX&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Sent1nelX&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sent1nelX&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sent1nelX&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sent1nelX&theme=tokyonight" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sent1nelX&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sent1nelX&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sent1nelX&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sent1nelX&theme=tokyonight&utcOffset=5" />
 </div>
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sent1nelX&bg_color=0d1117&color=58a6ff&line=2f81f7&point=f85149&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-contributor-stats.vercel.app/api?username=Sent1nelX&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 </details>
