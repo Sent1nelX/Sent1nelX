@@ -1,17 +1,18 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,35:111A33,70:162447,100:1F4068&text=Sent1nelX&fontSize=52&fontColor=EAF2FF&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Automation%20%7C%20Telegram%20Systems&descAlignY=58&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050a14,35:1e0a3c,70:2d0f5e,100:0e7490&text=Sent1nelX&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20AI%20Systems%20%7C%20Telegram%20Automation&descAlignY=58&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer+%F0%9F%90%8D;Django+%7C+FastAPI+%7C+DRF+%7C+PostgreSQL;Telegram+Bot+Architect+%F0%9F%A4%96;Building+real+systems%2C+not+demo+toys+%F0%9F%9A%80;QR+Attendance+%7C+bots+%7C+REST+APIs;Based+in+Kazakhstan+%F0%9F%87%B0%F0%9F%87%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Python+Backend+Developer+%F0%9F%90%8D;Django+%7C+FastAPI+%7C+DRF+%7C+PostgreSQL;Telegram+Bot+Architect+%F0%9F%A4%96;React+%7C+TypeScript+%7C+Three.js+%F0%9F%8C%90;Building+real+systems%2C+not+demo+toys+%F0%9F%9A%80;AI-powered+tools+%7C+Claude+API+%7C+Agents;Based+in+Kazakhstan+%F0%9F%87%B0%F0%9F%87%BF" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sent1nelx.github.io-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://Sent1nelX.github.io/sent1nelx-portfolio/)
 [![Telegram](https://img.shields.io/badge/Telegram-@sent1nelx-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sent1nelx)
 [![GitHub](https://img.shields.io/badge/GitHub-Sent1nelX-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sent1nelX)
 [![committers.top badge](https://user-badge.committers.top/kazakhstan/Sent1nelX.svg)](https://committers.top/kazakhstan)
-![Profile Views](https://komarev.com/ghpvc/?username=Sent1nelX&style=for-the-badge&color=0e75b6&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Sent1nelX&style=for-the-badge&color=7c3aed&label=Profile+Views)
 
 </div>
 
@@ -25,27 +26,34 @@
 
 <pre>
 name:     Sent1nelX
+age:      19
 role:     Python Backend Developer
-location: Kazakhstan
+location: Kazakhstan 🇰🇿
 stack:    Django, DRF, FastAPI, PostgreSQL
-focus:    Telegram bots, REST API, automation, parsing
-status:   building useful systems, not demo toys
+          React, TypeScript, Three.js
+          AI systems, Claude API, agents
+focus:    Telegram bots, REST APIs,
+          automation, AI-powered tools
+status:   building real systems,
+          not demo toys
 </pre>
 
 ## `about_me`
 
-- 🐍 Python backend developer focused on real deployable systems
-- 🤖 Telegram bot architect — bots, notifications, mini-services
-- 🏗️ Full product builder: DB schema → backend → UI → deploy
-- 🔍 Love clean architecture, parsers, automation pipelines
-- 🇰🇿 Based in Kazakhstan
+- 🐍 Backend dev — Django / FastAPI / DRF
+- 🤖 Telegram bot architect & automation engineer
+- 🌐 Full-stack capable: backend → React UI → deploy
+- 🧠 Building AI-powered tools and agent systems
+- 🏗️ Full product builder: DB schema → API → UI → deploy
+- 🎨 Dark cinematic UIs with Framer Motion + Three.js
+- 🇰🇿 Based in Kazakhstan, CATEC College 2026
 
 ## `main_directions`
 
 - **Backend engineering** — Django / FastAPI / DRF
 - **Telegram systems** — bots, notifications, mini-services
-- **Data & parsing** — scraping, processing, automation
-- **Product mindset** — not just code, but a useful result
+- **AI & Agents** — Claude API, autonomous systems
+- **Frontend** — React + TypeScript + Framer Motion
 
 </td>
 <td width="44%" valign="top">
@@ -55,18 +63,27 @@ status:   building useful systems, not demo toys
 ```python
 class Sent1nelX:
     name = "Sent1nelX"
+    age = 19
     location = "Kazakhstan 🇰🇿"
 
     stack = {
-        "backend":  ["Django", "FastAPI", "DRF"],
-        "db":       ["PostgreSQL", "SQLite"],
-        "bots":     ["aiogram", "python-telegram-bot"],
-        "frontend": ["React", "TypeScript", "HTML/CSS"],
-        "devops":   ["Linux", "Git", "Cloudflare"],
+        "backend":   ["Django", "FastAPI", "DRF"],
+        "db":        ["PostgreSQL", "SQLite"],
+        "bots":      ["aiogram", "python-telegram-bot"],
+        "frontend":  ["React", "TypeScript", "Three.js",
+                      "Framer Motion", "Tailwind CSS"],
+        "ai":        ["Claude API", "Agents", "MCP"],
+        "devops":    ["Linux", "Git", "Docker",
+                      "Cloudflare", "GitHub Pages"],
     }
 
-    focus = "Building systems that solve real tasks"
+    now_building = [
+        "QR Attendance System",   # diploma project
+        "AI-powered tools",       # Ada Digital
+    ]
+
     status = "open to interesting projects 👀"
+    portfolio = "sent1nelx.github.io/sent1nelx-portfolio"
 ```
 
 ## `philosophy`
@@ -94,10 +111,6 @@ class Sent1nelX:
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
@@ -106,16 +119,20 @@ class Sent1nelX:
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="PostgreSQL" width="65" height="65" />
+      <br>PostgreSQL
     </td>
   </tr>
   <tr>
@@ -125,11 +142,19 @@ class Sent1nelX:
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <br>Postgres
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
       <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+      <br>Three.js
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
@@ -142,14 +167,6 @@ class Sent1nelX:
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
     </td>
   </tr>
 </table>
@@ -174,10 +191,11 @@ class Sent1nelX:
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=%2361DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-26A5E4?style=flat&logo=telegram&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 **🗄️ Databases**
 
@@ -185,15 +203,21 @@ class Sent1nelX:
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
 
+**🧠 AI & Agents**
+
+![Claude API](https://img.shields.io/badge/Claude_API-7c3aed?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-5b21b6?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-0ea5e9?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
+
 **⚙️ DevOps & Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=github-actions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
 
 </details>
 
@@ -202,13 +226,7 @@ class Sent1nelX:
 ## `achievements`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sent1nelX&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/Sent1nelX?tab=achievements">
-    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20View%20GitHub%20Achievements-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sent1nelX&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
@@ -217,26 +235,19 @@ class Sent1nelX:
 <summary><h2>📊 github_signal</h2></summary>
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Sent1nelX&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sent1nelX&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Sent1nelX&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sent1nelX&show_icons=true&hide_border=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sent1nelX&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sent1nelX&layout=compact&hide_border=true&theme=midnight-purple&langs_count=10" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sent1nelX&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sent1nelX&bg_color=050a14&color=8b5cf6&line=7c3aed&point=06b6d4&hide_border=true" />
 </div>
 
 </details>
-
----
-
-## `recent_activity`
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
@@ -258,38 +269,38 @@ class Sent1nelX:
 <tr>
 <td width="50%" valign="top">
 
-### Financial Bot
-Учёт доходов и расходов в Telegram.
-**Stack:** `aiogram` `SQLite`
-[Open repository](https://github.com/Sent1nelX/Financial-Bot-for-Telegram)
+### 🌐 Portfolio Site
+Личный сайт — dark cinematic, EN/RU, Three.js, Framer Motion.
+**Stack:** `React` `TypeScript` `Three.js` `Tailwind`
+[→ Live site](https://Sent1nelX.github.io/sent1nelx-portfolio/)
 
-### News Bot
-Авто-рассылка новостей по RSS.
-**Stack:** `Django` `aiogram`
-[Open repository](https://github.com/Sent1nelX/Django-Telegram-News-Bot)
+### 📱 QR Attendance System
+QR-посещаемость для колледжа. Дипломный проект.
+**Stack:** `Django` `DRF` `React` `PostgreSQL` `Docker`
+[→ Repository](https://github.com/ada-digital/qr-attendance)
 
-### Anime Gallery
-Галерея с парсингом контента.
-**Stack:** `Django` `BeautifulSoup`
-[Open repository](https://github.com/Sent1nelX/GoogleGalleryDjango)
+### 🤖 Claude Activity Tracker
+Claude Code плагин — трекинг AI-сессий, 9 MCP инструментов.
+**Stack:** `Python` `SQLite` `FastMCP` `Chart.js`
+[→ Repository](https://github.com/Sent1nelX/claude-activity-tracker)
 
 </td>
 <td width="50%" valign="top">
 
-### REST + GraphQL Shop
+### 💰 Financial Bot
+Учёт доходов и расходов в Telegram.
+**Stack:** `aiogram` `SQLite`
+[→ Repository](https://github.com/Sent1nelX/Financial-Bot-for-Telegram)
+
+### 🛒 REST + GraphQL Shop
 Один backend, два API-подхода.
 **Stack:** `DRF` `Graphene-Django`
-[Open repository](https://github.com/Sent1nelX/Django-REST-GraphQL-E-commerce-Project)
+[→ Repository](https://github.com/Sent1nelX/Django-REST-GraphQL-E-commerce-Project)
 
-### CATEC Vigilance System
-Система контроля посещаемости и раннего риска.
-**Stack:** `Python` `Django`
-[Open repository](https://github.com/Sent1nelX/CATEC-Vigilance-System)
-
-### QR Attendance System
-Система QR-посещаемости для организаций.
-**Stack:** `Django` `React` `TypeScript`
-[Open repository](https://github.com/ada-digital/qr-attendance)
+### 🛡️ CATEC Vigilance System
+Контроль посещаемости и раннего риска.
+**Stack:** `Python` `Django` `PostgreSQL`
+[→ Repository](https://github.com/Sent1nelX/CATEC-Vigilance-System)
 
 </td>
 </tr>
@@ -301,15 +312,16 @@ class Sent1nelX:
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Write%20to%20me%20in%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sent1nelx)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sent1nelX)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sent1nelx.github.io-7c3aed?style=for-the-badge)](https://Sent1nelX.github.io/sent1nelx-portfolio/)
+[![Telegram](https://img.shields.io/badge/Write%20in%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sent1nelx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/адиль-абашев-ba3727260/)
 
 </div>
 
 <div align="center">
-  <sub>backend • automation • bots • systems</sub>
+  <sub>backend · AI agents · bots · systems · dark cinematic UIs</sub>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1F4068,100:0B1020&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0e7490,100:050a14&section=footer"/>
 </div>
