@@ -78,8 +78,9 @@ class Sent1nelX:
     }
 
     now_building = [
-        "QR Attendance System",   # diploma project
-        "AI-powered tools",       # Ada Digital
+        "Ada Digital — AI studio",    # virtual IT company
+        "AI agents & automation",     # Claude API + MCP
+        "Security research tooling",  # OSINT + pentesting
     ]
 
     status = "open to interesting projects 👀"
@@ -274,33 +275,33 @@ class Sent1nelX:
 **Stack:** `React` `TypeScript` `Three.js` `Tailwind`
 [→ Live site](https://Sent1nelX.github.io/sent1nelx-portfolio/)
 
-### 📱 QR Attendance System
-QR-посещаемость для колледжа. Дипломный проект.
+### 📱 CATEC Vigilance System
+QR-посещаемость и контроль рисков для колледжа. Дипломный проект.
 **Stack:** `Django` `DRF` `React` `PostgreSQL` `Docker`
-[→ Repository](https://github.com/ada-digital/qr-attendance)
+[→ Repository](https://github.com/Sent1nelX/CATEC-Vigilance-System)
+
+### 🏠 Room8
+Tinder для соседей — свайпы, матчинг, real-time чат, Telegram бот.
+**Stack:** `Next.js 15` `TypeScript` `Prisma` `Socket.io`
+[→ Repository](https://github.com/Sent1nelX/Room8)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 Claude Activity Tracker
 Claude Code плагин — трекинг AI-сессий, 9 MCP инструментов.
 **Stack:** `Python` `SQLite` `FastMCP` `Chart.js`
 [→ Repository](https://github.com/Sent1nelX/claude-activity-tracker)
 
-</td>
-<td width="50%" valign="top">
-
 ### 💰 Financial Bot
 Учёт доходов и расходов в Telegram.
-**Stack:** `aiogram` `SQLite`
+**Stack:** `aiogram` `Django` `SQLite`
 [→ Repository](https://github.com/Sent1nelX/Financial-Bot-for-Telegram)
 
 ### 🛒 REST + GraphQL Shop
 Один backend, два API-подхода.
 **Stack:** `DRF` `Graphene-Django`
 [→ Repository](https://github.com/Sent1nelX/Django-REST-GraphQL-E-commerce-Project)
-
-### 🛡️ CATEC Vigilance System
-Контроль посещаемости и раннего риска.
-**Stack:** `Python` `Django` `PostgreSQL`
-[→ Repository](https://github.com/Sent1nelX/CATEC-Vigilance-System)
 
 </td>
 </tr>
